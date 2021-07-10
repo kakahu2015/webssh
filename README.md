@@ -3,7 +3,7 @@ webssh is a simple web application used as an ssh client to connect to an ssh se
 
 
 Build image:
-docker build -t ascs/webssh:alpine-3.9 .
+docker build -t kakahu2015/webssh:v1.0.1 .
 
 If you don’t want to build the image manually, you can directly pull the built image:
 docker pull kakahu2015/webssh:v1.0.1
